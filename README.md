@@ -1,11 +1,3 @@
-# TSL UMD UDP 2 Serial
+# TSL UMD rasberry pi
 
-Simple Python implemented UDP to serial converter for TSL UMD 3.1 tally protocol.
-
-Usage:
-
-    
-    python [udp_port] [serial_port] 
-
-
-Arduino code not suitable for generic use.
+switcher_to_multiviewer.py is the main file used to communicate using rs485 with an arduino whose host computer is running tally view master.
